@@ -55,6 +55,7 @@ export const radioPlayerInit = () => {
 
     // начинаем воспроизведение
     audio.play();
+    
     changeIconPlay();
   });
 
